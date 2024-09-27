@@ -8,7 +8,7 @@
 <h2 align="left">🌏 Find Me:</h2>
 <div align="left">
  
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashok-kumar-53958511/)
 [![image](https://img.shields.io/badge/-WordPress-blue?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/) 
 [![image](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashok1976)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashok.its1@gmail.com)
